@@ -1,0 +1,86 @@
+[
+  {
+    "channel_name": "wmbus_mode_t-m2o_rx",
+    "result_code": "0",
+    "error_message": "",
+    "logs": [],
+    "cfg_logs": [
+      {
+        "name": "Preamble Binary Pattern",
+        "value": "01010101010101010101010101010101"
+      },
+      {
+        "name": "Sync Word Binary Pattern",
+        "value": "0101010000111101"
+      },
+      {
+        "name": "Actual Bandwidth",
+        "value": 387722
+      },
+      {
+        "name": "Desired baudrate",
+        "value": 100000
+      },
+      {
+        "name": "Actual sample frequency",
+        "value": null
+      },
+      {
+        "name": "FEC enabled flag",
+        "value": 0
+      },
+      {
+        "name": "Enable FEC",
+        "value": "FECTxEnableEnum.DISABLED"
+      },
+      {
+        "name": "Skip 2nd antenna check with phase demod antenna diversity",
+        "value": "Skip2AntModeEnum.NOSKIP2ANT"
+      },
+      {
+        "name": "Preamble Detection Length",
+        "value": 32
+      },
+      {
+        "name": "Injection side",
+        "value": "LoInjectionSideEnum.HIGH_SIDE"
+      },
+      {
+        "name": "Fast preamble detect",
+        "value": "FastDetectEnum.DISABLED"
+      },
+      {
+        "name": "Acquisition Channel Bandwidth",
+        "value": 387722
+      },
+      {
+        "name": "IF Frequency",
+        "value": 243861
+      },
+      {
+        "name": "RSSI Update Period",
+        "value": 3
+      },
+      {
+        "name": "ETSI Category 1 Compatibility",
+        "value": "etsi_cat1_compatible.Normal"
+      },
+      {
+        "name": "Antenna diversity mode",
+        "value": "AntDivModeEnum.DISABLE"
+      },
+      {
+        "name": "Diversity Select-Best repeat",
+        "value": "AntDivRepeatDisModeEnum.REPEATFIRST"
+      },
+      {
+        "name": "Byte position of dynamic length byte",
+        "value": 0
+      },
+      {
+        "name": "Length of the First Word",
+        "value": 8
+      }
+    ]
+  }
+]
